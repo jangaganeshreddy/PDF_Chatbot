@@ -12,4 +12,4 @@ The chatbot can read data from PDF documents, create embeddings and store them i
 
 ## How it works
 Check this youtube video.
-[https://www.youtube.com/watch?v=hn-vBbLIiG4](url)
+[![Video Title](http://img.youtube.com/vi/hn-vBbLIiG4/0.jpg)](http://www.youtube.com/watch?v=hn-vBbLIiG4)
